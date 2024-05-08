@@ -1,0 +1,3 @@
+type AvatarProps = {
+  focused: boolean;
+};
